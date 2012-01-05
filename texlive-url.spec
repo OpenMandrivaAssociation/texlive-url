@@ -6,7 +6,7 @@
 # catalog-version 3.2
 Name:		texlive-url
 Version:	3.2
-Release:	1
+Release:	2
 Summary:	Verbatim with URL-sensitive line breaks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/url
