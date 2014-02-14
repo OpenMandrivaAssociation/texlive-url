@@ -1,12 +1,12 @@
-# revision 16864
+# revision 32528
 # category Package
 # catalog-ctan /macros/latex/contrib/url
-# catalog-date 2010-01-27 23:13:46 +0100
+# catalog-date 2013-12-31 15:02:54 +0100
 # catalog-license lppl
-# catalog-version 3.2
+# catalog-version 3.4
 Name:		texlive-url
-Version:	3.2
-Release:	6
+Version:	3.4
+Release:	1
 Summary:	Verbatim with URL-sensitive line breaks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/url
@@ -55,16 +55,3 @@ file names.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 3.2-2
-+ Revision: 757328
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 3.2-1
-+ Revision: 719861
-- texlive-url
-- texlive-url
-- texlive-url
-
