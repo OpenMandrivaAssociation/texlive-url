@@ -3,7 +3,7 @@ Version:	32528
 Release:	2
 Summary:	Verbatim with URL-sensitive line breaks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/url
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/url
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/url.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/url.doc.r%{version}.tar.xz
